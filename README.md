@@ -1,1 +1,1 @@
-![Sin titulo](../assets/image/read/.png)
+![Sin titulo](assets/image/read.png)
