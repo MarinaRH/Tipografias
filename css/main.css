@@ -1,0 +1,15 @@
+div {
+  border: 5px blue white;
+  display: inline-block;
+  width: 250px;
+  height:300px;
+  margin: 5px;
+  background:whitesmoke;
+  box-sizing: border-box;
+
+}
+
+p {
+  color:dimgray;
+  text-align:center;
+}
