@@ -1,13 +1,20 @@
 /*Creando los estilos para cada caja y clase*/
+body{
+  background: url(https://78.media.tumblr.com/c6288dc9c34d1e2af4054c83e6235447/tumblr_o8hh4eDOWW1ucpvkqo1_500.gif);
+
+  }
+h1 {
+  text-align: center;
+}
 div {
   border: 5px blue white;
   display: inline-block;
   width: 250px;
   height:300px;
-  margin: 5px;
-  background:whitesmoke;
+  margin:3px;
+  background:#fbfbfb;
   box-sizing: border-box;
-
+  float: left;
 }
 
 p {
@@ -51,4 +58,11 @@ p {
   font-size: 18px;
   text-align:center;
   color:lightsteelblue;
+}
+
+.corazon {
+  background: white;
+  height:330px;
+  position: relative;
+  top: -10px;
 }
