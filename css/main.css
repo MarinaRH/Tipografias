@@ -13,3 +13,41 @@ p {
   color:dimgray;
   text-align:center;
 }
+
+.titulo {
+  font-family: 'Merriweather ', serif;
+  font-size: 26px;
+
+}
+
+.sub {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 18px;
+  text-align:center;
+
+}
+
+.text {
+  font-family: 'Alegreya', serif;
+  font-size: 14px;
+
+}
+
+.titulo1 {
+  font-family: 'Merriweather ', serif;
+  font-size: 26px;
+  color:lightsteelblue;
+}
+
+.text1 {
+  font-family: 'Alegreya', serif;
+  font-size: 14px;
+  color:lightsteelblue;
+}
+
+.sub1 {
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 18px;
+  text-align:center;
+  color:lightsteelblue;
+}
